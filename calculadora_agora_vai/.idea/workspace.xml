@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b36bc26-0a66-4dd6-b8b5-f0f77aa639fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculadora_agora_vai.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/calculadora_agora_vai/Calculadora.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/calculadora_agora_vai/Controller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller.java" afterDir="false" />
-    </list>
+    <list default="true" id="9b36bc26-0a66-4dd6-b8b5-f0f77aa639fb" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -130,7 +121,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-390" y="2" width="992" height="784" extended-state="1" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35944206" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
